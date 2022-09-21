@@ -1,2 +1,2 @@
 # muslimorid-kloning
-This is my first time
+Ini adalah kloningan dari website muslimorid
